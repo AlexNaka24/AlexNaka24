@@ -2,10 +2,6 @@
 
 ###
 
-<img align="right" height="205" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"  />
-
-###
-
 <p align="left">My name is Alex Nakagama and im trying to be a full stack developer.</p>
 
 ###
