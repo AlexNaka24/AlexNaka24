@@ -1,24 +1,24 @@
-<h1 align="left">Hi 👋 I'm Alex</h1>
+<h1 align="center">Hi 👋 I'm Alex</h1>
 
 ###
 
-<p align="left">My name is Alex Nakagama and im trying to be a full stack developer.</p>
+<p align="center">My name is Alex Nakagama and im trying to be a full stack developer.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="center">About me</h2>
 
 ###
 
-<p align="left">🌱 I’m passionate about building scalable and user-friendly applications.<br>💡 Currently improving my skills in Next.js and backend development.<br>🤝 I’m open to collaborating on full-stack or open-source projects.<br>🎯 My goal is to become a well-rounded Full Stack Developer.<br>🎮 Outside coding, I like sports, tech trends and games.</p>
+<p align="center">🌱 I’m passionate about building scalable and user-friendly applications.<br>💡 Currently improving my skills in Next.js and backend development.<br>🤝 I’m open to collaborating on full-stack or open-source projects.<br>🎯 My goal is to become a well-rounded Full Stack Developer.<br>🎮 Outside coding, I like sports, tech trends and games.</p>
 
 ###
 
-<h2 align="left">Skills</h2>
+<h2 align="center">Skills</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -46,7 +46,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/alex-nakagama-1b43b233b/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
