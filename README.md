@@ -2,18 +2,6 @@
 
 ###
 
-<p align="center">My name is Alex Nakagama and im trying to be a full stack developer.</p>
-
-###
-
-<h2 align="center">About me</h2>
-
-###
-
-<p align="center">🌱 I’m passionate about building scalable and user-friendly applications.<br>💡 Currently improving my skills in Next.js and backend development.<br>🤝 I’m open to collaborating on full-stack or open-source projects.<br>🎯 My goal is to become a well-rounded Full Stack Developer.<br>🎮 Outside coding, I like sports, tech trends and games.</p>
-
-###
-
 <h2 align="center">Skills</h2>
 
 ###
