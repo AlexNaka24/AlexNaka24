@@ -8,6 +8,7 @@ I’m [**Alex**](https://www.linkedin.com/in/alex-nakagama-1b43b233b/), a softwa
 - Building thoughtful projects
 
 **Contact me:**
+<br>
 📌 Email: alexnakagama4@gmail.com
 <br>
 📌 Linkedin:  https://www.linkedin.com/in/alex-nakagama-1b43b233b/
