@@ -7,6 +7,7 @@ I’m [**Alex**](https://www.linkedin.com/in/alex-nakagama-1b43b233b/), a softwa
 - TypeScript
 - Building thoughtful projects
 
-<h3>Contact me:</h3>
+**Contact me:**
 📌 Email: alexnakagama4@gmail.com
+<br>
 📌 Linkedin:  https://www.linkedin.com/in/alex-nakagama-1b43b233b/
