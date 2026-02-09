@@ -6,3 +6,7 @@ I’m [**Alex**](https://www.linkedin.com/in/alex-nakagama-1b43b233b/), a softwa
 - NestJS
 - TypeScript
 - Building thoughtful projects
+
+<h3>Contact me:</h3>
+📌 Email: alexnakagama4@gmail.com
+📌 Linkedin:  https://www.linkedin.com/in/alex-nakagama-1b43b233b/
