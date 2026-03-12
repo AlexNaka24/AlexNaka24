@@ -3,8 +3,8 @@
 I’m [**Alex**](https://www.linkedin.com/in/alex-nakagama-1b43b233b/), a software development student based in Argentina.
 
 **These days I’m focused on:**
-- NodeJS
-- TypeScript
+- Python
+- FastAPI
 - Building thoughtful projects
 
 **Contact me:**
